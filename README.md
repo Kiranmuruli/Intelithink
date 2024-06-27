@@ -1,0 +1,2 @@
+# Intelithink
+Individual projects
